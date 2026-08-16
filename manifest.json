@@ -1,0 +1,15 @@
+{
+  "name": "Lumina Estate — Society Management",
+  "short_name": "Lumina Estate",
+  "description": "Society & community management platform — billing, complaints, notices, visitor management and more.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1F3A5F",
+  "theme_color": "#1F3A5F",
+  "lang": "hi",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
